@@ -19,12 +19,12 @@
 }
 
 .widgetSmList{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     list-style: none;
 }
 
-.widgetSmListItem{
+.widgetSmItem{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -45,10 +45,10 @@
 }
 
 .widgetSmButton{
-    display: flex;
-    align-items: center;
     border: none;
     border-radius: 10px;
+    display: flex;
+    align-items: center;
     padding: 7px 10px;
     background-color: #eeeef7;
     color: #555;
